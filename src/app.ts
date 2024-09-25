@@ -33,7 +33,7 @@ const swaggerOptions = {
     },
     servers: [
       {
-        url: 'http://localhost:3000/api'
+        url: 'https://cohabitdb.onrender.com/api'
       },
     ],
     components: {
